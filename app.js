@@ -4,7 +4,31 @@ console.log(
 );
 
 // Exercise 1
+const firstName; //const variables must be initialized
+let lastName;
+var age;
 
 // Exercise 2
+firstName = 'Jonathan';
+lastName = 'Borja';
+age = 40;
 
 // Exercise 3
+let language = 'Javascript';
+let createtYear = 1995;
+let isCAseSensitive = true;
+
+// Exercise 4
+let price = 19.99;
+let isOnSales = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = 'M';
+
+// Exercise 5
+let title = 'Name of the Wind';
+let author = 'Patrick Rothfuss';
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
